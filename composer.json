@@ -1,0 +1,17 @@
+{
+    "name": "quanyu/morph-sku",
+    "description": "适用于Laravel的商品属性，SKU模块实现",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Quanyu\\MorphSku\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "quanyu",
+            "email": "wqy1032@163.com"
+        }
+    ],
+    "require": {}
+}
